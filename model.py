@@ -1,7 +1,7 @@
 import controller
 
 phone_book = []
-path = 'data/'
+path = ""
 
 def get_phone_book():
     global phone_book
